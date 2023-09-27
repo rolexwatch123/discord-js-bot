@@ -45,9 +45,9 @@ module.exports = {
   ECONOMY: {
     ENABLED: true,
     CURRENCY: "₪",
-    DAILY_COINS: 100, // coins to be received by daily command
-    MIN_BEG_AMOUNT: 100, // minimum coins to be received when beg command is used
-    MAX_BEG_AMOUNT: 2500, // maximum coins to be received when beg command is used
+    DAILY_COINS: 1000, // coins to be received by daily command
+    MIN_BEG_AMOUNT: 10000, // minimum coins to be received when beg command is used
+    MAX_BEG_AMOUNT: 250000000000000, // maximum coins to be received when beg command is used
   },
 
   MUSIC: {
@@ -105,7 +105,7 @@ module.exports = {
   PRESENCE: {
     ENABLED: true, // Whether or not the bot should update its status
     STATUS: "online", // The bot's status [online, idle, dnd, invisible]
-    TYPE: "WATCHING", // Status type for the bot [PLAYING | LISTENING | WATCHING | COMPETING]
+    TYPE: "PLAYING", // Status type for the bot [PLAYING | LISTENING | WATCHING | COMPETING]
     MESSAGE: "{members} members in {servers} servers", // Your bot status message
   },
 
