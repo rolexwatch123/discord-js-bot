@@ -46,7 +46,7 @@ module.exports = {
     ENABLED: true,
     CURRENCY: "₪",
     DAILY_COINS: 1000, // coins to be received by daily command
-    MIN_BEG_AMOUNT: 10000, // minimum coins to be received when beg command is used
+    MIN_BEG_AMOUNT: 1000000, // minimum coins to be received when beg command is used
     MAX_BEG_AMOUNT: 250000000000, // maximum coins to be received when beg command is used
   },
 
