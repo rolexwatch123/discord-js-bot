@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<p align="center">Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More...</p>
+<p align="center">Admin, AutoMod, Anime, Economy, Fun, Giveaway, Image, Invite, Information, Moderation, Music, Owner, Social, Statistics, Suggestion, Ticket, Utility and More1...</p>
 
 <br>
 
